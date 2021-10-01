@@ -1,0 +1,1 @@
+v_partner_kesma.php
